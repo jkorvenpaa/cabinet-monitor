@@ -33,7 +33,7 @@ Meteorological Institute (FMI) open data API.
 
 ## Code and tests
 
-- Python 3, standard library first. Use a virtual environment (`.venv`).
+- Python 3.13, standard library first. Use a virtual environment (`.venv`).
 - Type hints on all functions. Short, clear names. Small functions.
 - Write the test first for alert and analysis logic, using fake data.
   Use pytest. Run the tests after every change and show me the result.
