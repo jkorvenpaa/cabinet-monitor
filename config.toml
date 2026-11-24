@@ -1,0 +1,6 @@
+[fmi]
+fmisid = 101004   # Helsinki Kumpula
+hours = 24        # how many past hours one run fetches
+
+[display]
+timezone = "Europe/Helsinki"   # used only when printing; data stays in UTC

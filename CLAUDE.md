@@ -42,5 +42,5 @@ Meteorological Institute (FMI) open data API.
 
 ## Commands
 
-- Set up: `python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
+- Set up: `python3.13 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`
 - Run tests: `pytest`
